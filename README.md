@@ -2,4 +2,6 @@
 this my first itey
 ss
 
-增加  jjjkkk
+增加  jjjkkks
+add1
+add2
